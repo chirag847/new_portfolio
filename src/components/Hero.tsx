@@ -43,7 +43,7 @@ dark:[background-size:16px_16px]
           </motion.div>
           
           <motion.h1 variants={itemVariants} className="font-inter font-bold text-4xl md:text-5xl lg:text-7xl tracking-tight max-w-4xl mx-auto mb-6 text-convrt-dark-blue dark:text-white leading-[1.1]">
-            From <span className="text-[#EA384C] font-extrabold">@Chirag_Jain</span> to <span className="text-[#6936F5] font-extrabold">.me</span>
+          It's<span className="text-[#EA384C] font-extrabold">@Chirag_Jain</span>  <span className="text-[#6936F5] font-extrabold"></span>
           </motion.h1>
           
           <motion.p variants={itemVariants} className="font-inter text-xl text-convrt-dark-blue/80 dark:text-gray-300 max-w-3xl mx-auto mb-8 leading-relaxed">
